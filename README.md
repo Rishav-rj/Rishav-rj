@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishav-rj
+- 👋 Hi, I’m Rishav Jaiswal
 - 👀 I’m interested in React, JavaScript, CSS, HTML, NodeJS, Express, MongoDB
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on React
