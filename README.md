@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, JavaScript, CSS, HTML, NodeJS, Express, MongoDB
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on React
-- 📫 Reach me at rishavjasiwal02Gmail.com
+- 📫 Reach me at rishavjasiwal02gmail.com
 
 <!---
 Rishav-rj/Rishav-rj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
